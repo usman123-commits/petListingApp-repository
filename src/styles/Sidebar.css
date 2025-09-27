@@ -1,0 +1,226 @@
+
+
+.sidebar {
+    grid-column: 1/2;
+    background-color: #ffffff;
+    border: 0px none;
+    height: 75vh;
+    position: relative;
+    width: 256px;
+  }
+
+  .sidebar .nav {
+    border: 0px none;
+    height: 312px;
+    left: 0;
+    position: absolute;
+    top: 61px;
+    width: 256px;
+  }
+  
+  .sidebar .ul {
+    border: 0px none;
+    height: 280px;
+    left: 16px;
+    position: relative;
+    top: 16px;
+    width: 224px;
+  }
+  
+  .sidebar .li {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 224px;
+  }
+  
+  .sidebar .img {
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 12px;
+    width: 16px;
+  }
+  
+  .sidebar .span {
+    border: 0px none;
+    height: 24px;
+    left: 36px;
+    position: absolute;
+    top: 8px;
+    width: 83px;
+  }
+  
+  .sidebar .text-wrapper {
+    color: #374151;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+    width: 96px;
+  }
+  
+  .sidebar .li-1 {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 48px;
+    width: 224px;
+  }
+  
+  .sidebar .frame {
+   
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 12px;
+    width: 20px;
+  }
+  
+  .sidebar .text-wrapper-2 {
+    color: #4b5563;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 10px;
+    width: 57px;
+  }
+  
+  .sidebar .li-2 {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 96px;
+    width: 224px;
+  }
+  
+  .sidebar .frame-2 {
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 12px;
+    width: 18px;
+  }
+  
+  .sidebar .text-wrapper-3 {
+    color: #4b5563;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 10px;
+    width: 42px;
+  }
+  
+  .sidebar .li-3 {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 144px;
+    width: 224px;
+  }
+  
+  .sidebar .text-wrapper-4 {
+    color: #4b5563;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 10px;
+    width: 83px;
+  }
+  
+  .sidebar .li-4 {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 192px;
+    width: 224px;
+  }
+  
+  .sidebar .text-wrapper-5 {
+    color: #4b5563;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 10px;
+    width: 75px;
+  }
+  
+  .sidebar .li-5 {
+    border: 0px none;
+    border-radius: 4px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 240px;
+    width: 224px;
+  }
+  
+  .sidebar .text-wrapper-6 {
+    color: #4b5563;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 10px;
+    width: 66px;
+  }
+  
+  .sidebar .div-wrapper {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #e5e7eb;
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 256px;
+  }
+  
+  .sidebar .text-wrapper-7 {
+    color: #2563eb;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+    width: 179px;
+  }
+  

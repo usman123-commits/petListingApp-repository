@@ -1,0 +1,42 @@
+.containerInf{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+.details{
+    padding-top: 40px;
+    display: grid;
+    grid-template-rows: 50px 50px 50px 50px;
+    background-color: rgb(232, 232, 232);
+    width: 100%;
+    height: 300px;
+}
+.col1{
+   
+    grid-column: 2/3;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.col2{
+   
+    grid-column: 3/4;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.outercontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(232, 232, 232)
+}
+.buttons{
+    background-color: blue;
+    color: white;
+    height: 100%;
+    width: 70%;
+    border-radius: 10px;
+    
+}
